@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/select"
+        android:title="@string/insert"
+        tools:ignore="HardcodedText">
+    <item android:id="@+id/select"
+        android:title="@string/create"
+        tools:ignore="HardcodedText">
+    <item android:id="@+id/select"
+        android:title="@string/delete"
+        tools:ignore="HardcodedText">
+    <item android:id="@+id/select"
+        android:title="@string/edite"
+        tools:ignore="HardcodedText">
+</menu>
